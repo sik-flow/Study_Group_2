@@ -1,1 +1,1 @@
-# Study_Group_2
+Notebook used for study group 2 on 10/9/19
